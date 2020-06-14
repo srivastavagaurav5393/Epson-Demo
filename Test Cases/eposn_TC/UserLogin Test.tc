@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UserLogin Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>681217ac-0476-4599-9eb8-6dad55488069</testCaseGuid>
+   <variable>
+      <defaultValue>'prodtest1@gmail.com\t'</defaultValue>
+      <description></description>
+      <id>58425059-43e1-45d6-ab91-5168fb5dea05</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345678'</defaultValue>
+      <description></description>
+      <id>8fd2b55f-ac13-404c-838b-de232aec87fc</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

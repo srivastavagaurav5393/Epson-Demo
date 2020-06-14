@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Para - Menu Header Navigation TestCase Level</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06ccb967-f565-4fe5-85fc-5b3d0f7cfdbb</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('Para-epson_OR/Para-ForHome_Links/For Home _ Link')</defaultValue>
+      <description></description>
+      <id>d45393a2-fe7d-46e6-a7b9-cd6bc9d816b2</id>
+      <masked>false</masked>
+      <name>gParentLink</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Para-epson_OR/Para-ForHome_Links/For Home _Parent Link')</defaultValue>
+      <description></description>
+      <id>206fd027-5b6a-4457-affb-cc610621ce86</id>
+      <masked>false</masked>
+      <name>ParentLink</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Para-epson_OR/Para-ForHome_Links/For Home _ ChildLink')</defaultValue>
+      <description></description>
+      <id>abc57030-588d-4bf2-82e6-12ee6f2384b8</id>
+      <masked>false</masked>
+      <name>ChildLink</name>
+   </variable>
+</TestCaseEntity>

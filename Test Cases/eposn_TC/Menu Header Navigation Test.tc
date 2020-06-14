@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menu Header Navigation Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2f33eae-925f-4242-a720-af074d1ebfc6</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('Para-epson_OR/Para-ForHome_Links/For Home _ Link')</defaultValue>
+      <description></description>
+      <id>eabeda8b-dd03-45c2-a92b-73e97deee5fa</id>
+      <masked>false</masked>
+      <name>gParentLink</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Para-epson_OR/Para-ForHome_Links/For Home _Parent Link')</defaultValue>
+      <description></description>
+      <id>69773336-4eb9-4a70-9fe2-035a364e68b2</id>
+      <masked>false</masked>
+      <name>ParentLink</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Para-epson_OR/Para-ForHome_Links/For Home _ ChildLink')</defaultValue>
+      <description></description>
+      <id>bd3f2818-0e70-49c2-bcb2-c991901debfe</id>
+      <masked>false</masked>
+      <name>ChildLink</name>
+   </variable>
+</TestCaseEntity>
